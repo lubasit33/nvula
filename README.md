@@ -1,6 +1,5 @@
 # Nvula: Saúde & Bem-Estar
-![_7cfb8f81-5165-4bb4-90e8-9b719f05c9b3](https://github.com/lubasit33/nvula/assets/71477406/ee05d48e-b3df-421b-b7fb-e14f7085c4f0)
-
+![logo-nvula](https://github.com/lubasit33/nvula/assets/71477406/d18a06cc-4890-4c92-ac3b-b6e1ffb9c931)
 
 ## Descrição
 
