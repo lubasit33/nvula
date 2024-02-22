@@ -1,9 +1,9 @@
-# Nvula: Saúde & Bem-Estar
+# Nvula | Saúde & Bem-Estar
 ![logo-nvula](https://github.com/lubasit33/nvula/assets/71477406/d18a06cc-4890-4c92-ac3b-b6e1ffb9c931)
 
 ## Descrição
 
-`Nvula: Saúde & Bem-Estar` é um website dedicado a promover a **saúde e o bem-estar** através da **fisioterapia**, **ludoterapia** e outras áreas afins.
+`Nvula | Saúde & Bem-Estar` é um website dedicado a promover a **saúde e o bem-estar** através da **fisioterapia**, **ludoterapia** e outras áreas afins.
 O website oferece informações sobre _diferentes tipos de fisioterapia_, _dicas de saúde e bem-estar_, e _recursos para pacientes e profissionais da área_.
 
 ## Público-alvo
@@ -42,7 +42,7 @@ O website oferece informações sobre _diferentes tipos de fisioterapia_, _dicas
 
 ## Contribuições
 
-O website ``Nvula: Saúde & Bem-Estar`` é um projeto __open-source__. Você pode contribuir de diversas maneiras:
+O website ``Nvula | Saúde & Bem-Estar`` é um projeto __open-source__. Você pode contribuir de diversas maneiras:
 
 * Escrevendo artigos para o blog
 * Traduzindo o website para outros idiomas
@@ -51,7 +51,7 @@ O website ``Nvula: Saúde & Bem-Estar`` é um projeto __open-source__. Você pod
 
 ## Contato
 
-Para mais informações sobre o website ``Nvula: Saúde & Bem-Estar``, entre em contato:
+Para mais informações sobre o website ``Nvula | Saúde & Bem-Estar``, entre em contato:
 
 * **Email**: lucas.c.e.cardoso@gmail.com
 * **Telefone**: +244 929 796 849
@@ -59,6 +59,6 @@ Para mais informações sobre o website ``Nvula: Saúde & Bem-Estar``, entre em 
 
 ## Agradecimentos
 
-Agradecemos a todos que contribuíram para o desenvolvimento do website ``Nvula: Saúde & Bem-Estar``.
+Agradecemos a todos que contribuíram para o desenvolvimento do website ``Nvula | Saúde & Bem-Estar``.
 
 > Esperamos que este website seja um recurso útil para todos que buscam melhorar sua __saúde e bem-estar__!
